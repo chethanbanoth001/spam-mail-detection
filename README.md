@@ -1,2 +1,2 @@
-# spam-mail-detection
-spam mail detection
+# spam-mail/sms-detection
+spam mail/sms detection
